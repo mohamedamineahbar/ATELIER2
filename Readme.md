@@ -1,4 +1,4 @@
-mkdir out
+## Abstract Factory Pattern
 
 javac -d out src\produits\*.java src\classic\*.java src\contemporary\*.java src\scandinavian\*.java src\factory\*.java src\client\*.java
 
